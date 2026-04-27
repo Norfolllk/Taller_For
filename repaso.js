@@ -1,4 +1,4 @@
-//Parte 2 - Funcion princial
+//*Parte 2 - Funcion princial
 function mostrar(opcion) {
     switch (opcion) {
         case 1:
@@ -30,7 +30,7 @@ function mostrar(opcion) {
     }
 }
 
-//Parte 3: Primer ejercicio
+//*Parte 3: Primer ejercicio
 function ejercicio1() {
     for (let i = 1; i <= 5; i++)
         console.log(i);
@@ -49,7 +49,7 @@ function ejercicio3() {
     }
 }
 
-//Parte 3 - Mensaje con restricciones
+//*Parte 3 - Mensaje con restricciones
 function mostrarMensaje1() {
     for (let i = 5; i < 8; i++)
         console.log("mensaje restringido");
